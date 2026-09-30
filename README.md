@@ -2,7 +2,7 @@
 
 Business model: **Beauty & wellness**
 Industry: **Sauna & Cold Plunge**
-Architecture: **showcase**
+Architecture: **editorial**
 Catalog entries: **6**
 
 ## V60 differences
